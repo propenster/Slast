@@ -1,3 +1,12 @@
+/****************************************************************************
+* Filename: main.c
+* Original Author: Faith E. Olusegun (propenster)
+* File Creation Date: December 2nd, 2023
+* Description: Entry to SLAST Dynamic programming-based sequence alignment algorithm
+* LICENSE: MIT
+*************************************************************************************/
+
+
 #include <stdio.h>
 #include "slast.h"
 

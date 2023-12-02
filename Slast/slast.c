@@ -1,3 +1,11 @@
+/****************************************************************************
+* Filename: slast.c
+* Original Author: Faith E. Olusegun (propenster)
+* File Creation Date: December 2nd, 2023
+* Description: SLAST functions, definitions and implementation details
+* LICENSE: MIT
+*************************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
